@@ -1,0 +1,33 @@
+@media(max-width:900px){
+    .nav-left .menu-icon{
+        display: none;
+    }
+    .nav-middle .mic-icone{
+        display: none;
+    }
+    .nav-right img{
+        display: none;
+    }
+    .nav-right .profile{
+        display: block;
+    }
+    .nav-middle .search-box input{
+        width: 100px;
+    }
+    .side-bar{
+        display: none;
+    }
+    .container{
+        padding-left: 2%;
+    }
+
+    
+/*---------------------- play video page ---------------*/
+
+
+.play-video{
+    flex-basis: 100%;
+}
+.side-play-video{
+    flex-basis: 100%;
+}
